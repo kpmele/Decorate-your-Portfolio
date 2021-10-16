@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(219, 138, 188);
+}
+
+h1 {
+    color:rgb(140, 13, 214);
+}
+
+h2 {
+    color: rgb(140, 13, 214)
+}

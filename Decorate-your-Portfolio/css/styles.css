@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(219, 138, 188);
+}
+
+h1 {
+    color:rgb(140, 13, 214);
+}
+
+h2 {
+    color: rgb(140, 13, 214)
+}
+
+img {
+    max-width:25%;
+    max-height:25%;
+    border-style: groove;
+    border-width: thick;
+    border-color: rgb(140, 13, 214);
+    padding: 5px;
+
+}
+
+h3 {
+    color:rgb(140, 13, 214)
+}
+
+
+
